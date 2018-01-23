@@ -1,0 +1,5272 @@
+fileFormatVersion: 2
+guid: 1542f1a1b68c0174587f52e51ca402bd
+timeCreated: 1516679759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Mario World - Enemies_0
+    21300002: SNES - Super Mario World - Enemies_1
+    21300004: SNES - Super Mario World - Enemies_2
+    21300006: SNES - Super Mario World - Enemies_3
+    21300008: SNES - Super Mario World - Enemies_4
+    21300010: SNES - Super Mario World - Enemies_5
+    21300012: SNES - Super Mario World - Enemies_6
+    21300014: SNES - Super Mario World - Enemies_7
+    21300016: SNES - Super Mario World - Enemies_8
+    21300018: SNES - Super Mario World - Enemies_9
+    21300020: SNES - Super Mario World - Enemies_10
+    21300022: SNES - Super Mario World - Enemies_11
+    21300024: SNES - Super Mario World - Enemies_12
+    21300026: SNES - Super Mario World - Enemies_13
+    21300028: SNES - Super Mario World - Enemies_14
+    21300030: SNES - Super Mario World - Enemies_15
+    21300032: SNES - Super Mario World - Enemies_16
+    21300034: SNES - Super Mario World - Enemies_17
+    21300036: SNES - Super Mario World - Enemies_18
+    21300038: SNES - Super Mario World - Enemies_19
+    21300040: SNES - Super Mario World - Enemies_20
+    21300042: SNES - Super Mario World - Enemies_21
+    21300044: SNES - Super Mario World - Enemies_22
+    21300046: SNES - Super Mario World - Enemies_23
+    21300048: SNES - Super Mario World - Enemies_24
+    21300050: SNES - Super Mario World - Enemies_25
+    21300052: SNES - Super Mario World - Enemies_26
+    21300054: SNES - Super Mario World - Enemies_27
+    21300056: SNES - Super Mario World - Enemies_28
+    21300058: SNES - Super Mario World - Enemies_29
+    21300060: SNES - Super Mario World - Enemies_30
+    21300062: SNES - Super Mario World - Enemies_31
+    21300064: SNES - Super Mario World - Enemies_32
+    21300066: SNES - Super Mario World - Enemies_33
+    21300068: SNES - Super Mario World - Enemies_34
+    21300070: SNES - Super Mario World - Enemies_35
+    21300072: SNES - Super Mario World - Enemies_36
+    21300074: SNES - Super Mario World - Enemies_37
+    21300076: SNES - Super Mario World - Enemies_38
+    21300078: SNES - Super Mario World - Enemies_39
+    21300080: SNES - Super Mario World - Enemies_40
+    21300082: SNES - Super Mario World - Enemies_41
+    21300084: SNES - Super Mario World - Enemies_42
+    21300086: SNES - Super Mario World - Enemies_43
+    21300088: SNES - Super Mario World - Enemies_44
+    21300090: SNES - Super Mario World - Enemies_45
+    21300092: SNES - Super Mario World - Enemies_46
+    21300094: SNES - Super Mario World - Enemies_47
+    21300096: SNES - Super Mario World - Enemies_48
+    21300098: SNES - Super Mario World - Enemies_49
+    21300100: SNES - Super Mario World - Enemies_50
+    21300102: SNES - Super Mario World - Enemies_51
+    21300104: SNES - Super Mario World - Enemies_52
+    21300106: SNES - Super Mario World - Enemies_53
+    21300108: SNES - Super Mario World - Enemies_54
+    21300110: SNES - Super Mario World - Enemies_55
+    21300112: SNES - Super Mario World - Enemies_56
+    21300114: SNES - Super Mario World - Enemies_57
+    21300116: SNES - Super Mario World - Enemies_58
+    21300118: SNES - Super Mario World - Enemies_59
+    21300120: SNES - Super Mario World - Enemies_60
+    21300122: SNES - Super Mario World - Enemies_61
+    21300124: SNES - Super Mario World - Enemies_62
+    21300126: SNES - Super Mario World - Enemies_63
+    21300128: SNES - Super Mario World - Enemies_64
+    21300130: SNES - Super Mario World - Enemies_65
+    21300132: SNES - Super Mario World - Enemies_66
+    21300134: SNES - Super Mario World - Enemies_67
+    21300136: SNES - Super Mario World - Enemies_68
+    21300138: SNES - Super Mario World - Enemies_69
+    21300140: SNES - Super Mario World - Enemies_70
+    21300142: SNES - Super Mario World - Enemies_71
+    21300144: SNES - Super Mario World - Enemies_72
+    21300146: SNES - Super Mario World - Enemies_73
+    21300148: SNES - Super Mario World - Enemies_74
+    21300150: SNES - Super Mario World - Enemies_75
+    21300152: SNES - Super Mario World - Enemies_76
+    21300154: SNES - Super Mario World - Enemies_77
+    21300156: SNES - Super Mario World - Enemies_78
+    21300158: SNES - Super Mario World - Enemies_79
+    21300160: SNES - Super Mario World - Enemies_80
+    21300162: SNES - Super Mario World - Enemies_81
+    21300164: SNES - Super Mario World - Enemies_82
+    21300166: SNES - Super Mario World - Enemies_83
+    21300168: SNES - Super Mario World - Enemies_84
+    21300170: SNES - Super Mario World - Enemies_85
+    21300172: SNES - Super Mario World - Enemies_86
+    21300174: SNES - Super Mario World - Enemies_87
+    21300176: SNES - Super Mario World - Enemies_88
+    21300178: SNES - Super Mario World - Enemies_89
+    21300180: SNES - Super Mario World - Enemies_90
+    21300182: SNES - Super Mario World - Enemies_91
+    21300184: SNES - Super Mario World - Enemies_92
+    21300186: SNES - Super Mario World - Enemies_93
+    21300188: SNES - Super Mario World - Enemies_94
+    21300190: SNES - Super Mario World - Enemies_95
+    21300192: SNES - Super Mario World - Enemies_96
+    21300194: SNES - Super Mario World - Enemies_97
+    21300196: SNES - Super Mario World - Enemies_98
+    21300198: SNES - Super Mario World - Enemies_99
+    21300200: SNES - Super Mario World - Enemies_100
+    21300202: SNES - Super Mario World - Enemies_101
+    21300204: SNES - Super Mario World - Enemies_102
+    21300206: SNES - Super Mario World - Enemies_103
+    21300208: SNES - Super Mario World - Enemies_104
+    21300210: SNES - Super Mario World - Enemies_105
+    21300212: SNES - Super Mario World - Enemies_106
+    21300214: SNES - Super Mario World - Enemies_107
+    21300216: SNES - Super Mario World - Enemies_108
+    21300218: SNES - Super Mario World - Enemies_109
+    21300220: SNES - Super Mario World - Enemies_110
+    21300222: SNES - Super Mario World - Enemies_111
+    21300224: SNES - Super Mario World - Enemies_112
+    21300226: SNES - Super Mario World - Enemies_113
+    21300228: SNES - Super Mario World - Enemies_114
+    21300230: SNES - Super Mario World - Enemies_115
+    21300232: SNES - Super Mario World - Enemies_116
+    21300234: SNES - Super Mario World - Enemies_117
+    21300236: SNES - Super Mario World - Enemies_118
+    21300238: SNES - Super Mario World - Enemies_119
+    21300240: SNES - Super Mario World - Enemies_120
+    21300242: SNES - Super Mario World - Enemies_121
+    21300244: SNES - Super Mario World - Enemies_122
+    21300246: SNES - Super Mario World - Enemies_123
+    21300248: SNES - Super Mario World - Enemies_124
+    21300250: SNES - Super Mario World - Enemies_125
+    21300252: SNES - Super Mario World - Enemies_126
+    21300254: SNES - Super Mario World - Enemies_127
+    21300256: SNES - Super Mario World - Enemies_128
+    21300258: SNES - Super Mario World - Enemies_129
+    21300260: SNES - Super Mario World - Enemies_130
+    21300262: SNES - Super Mario World - Enemies_131
+    21300264: SNES - Super Mario World - Enemies_132
+    21300266: SNES - Super Mario World - Enemies_133
+    21300268: SNES - Super Mario World - Enemies_134
+    21300270: SNES - Super Mario World - Enemies_135
+    21300272: SNES - Super Mario World - Enemies_136
+    21300274: SNES - Super Mario World - Enemies_137
+    21300276: SNES - Super Mario World - Enemies_138
+    21300278: SNES - Super Mario World - Enemies_139
+    21300280: SNES - Super Mario World - Enemies_140
+    21300282: SNES - Super Mario World - Enemies_141
+    21300284: SNES - Super Mario World - Enemies_142
+    21300286: SNES - Super Mario World - Enemies_143
+    21300288: SNES - Super Mario World - Enemies_144
+    21300290: SNES - Super Mario World - Enemies_145
+    21300292: SNES - Super Mario World - Enemies_146
+    21300294: SNES - Super Mario World - Enemies_147
+    21300296: SNES - Super Mario World - Enemies_148
+    21300298: SNES - Super Mario World - Enemies_149
+    21300300: SNES - Super Mario World - Enemies_150
+    21300302: SNES - Super Mario World - Enemies_151
+    21300304: SNES - Super Mario World - Enemies_152
+    21300306: SNES - Super Mario World - Enemies_153
+    21300308: SNES - Super Mario World - Enemies_154
+    21300310: SNES - Super Mario World - Enemies_155
+    21300312: SNES - Super Mario World - Enemies_156
+    21300314: SNES - Super Mario World - Enemies_157
+    21300316: SNES - Super Mario World - Enemies_158
+    21300318: SNES - Super Mario World - Enemies_159
+    21300320: SNES - Super Mario World - Enemies_160
+    21300322: SNES - Super Mario World - Enemies_161
+    21300324: SNES - Super Mario World - Enemies_162
+    21300326: SNES - Super Mario World - Enemies_163
+    21300328: SNES - Super Mario World - Enemies_164
+    21300330: SNES - Super Mario World - Enemies_165
+    21300332: SNES - Super Mario World - Enemies_166
+    21300334: SNES - Super Mario World - Enemies_167
+    21300336: SNES - Super Mario World - Enemies_168
+    21300338: SNES - Super Mario World - Enemies_169
+    21300340: SNES - Super Mario World - Enemies_170
+    21300342: SNES - Super Mario World - Enemies_171
+    21300344: SNES - Super Mario World - Enemies_172
+    21300346: SNES - Super Mario World - Enemies_173
+    21300348: SNES - Super Mario World - Enemies_174
+    21300350: SNES - Super Mario World - Enemies_175
+    21300352: SNES - Super Mario World - Enemies_176
+    21300354: SNES - Super Mario World - Enemies_177
+    21300356: SNES - Super Mario World - Enemies_178
+    21300358: SNES - Super Mario World - Enemies_179
+    21300360: SNES - Super Mario World - Enemies_180
+    21300362: SNES - Super Mario World - Enemies_181
+    21300364: SNES - Super Mario World - Enemies_182
+    21300366: SNES - Super Mario World - Enemies_183
+    21300368: SNES - Super Mario World - Enemies_184
+    21300370: SNES - Super Mario World - Enemies_185
+    21300372: SNES - Super Mario World - Enemies_186
+    21300374: SNES - Super Mario World - Enemies_187
+    21300376: SNES - Super Mario World - Enemies_188
+    21300378: SNES - Super Mario World - Enemies_189
+    21300380: SNES - Super Mario World - Enemies_190
+    21300382: SNES - Super Mario World - Enemies_191
+    21300384: SNES - Super Mario World - Enemies_192
+    21300386: SNES - Super Mario World - Enemies_193
+    21300388: SNES - Super Mario World - Enemies_194
+    21300390: SNES - Super Mario World - Enemies_195
+    21300392: SNES - Super Mario World - Enemies_196
+    21300394: SNES - Super Mario World - Enemies_197
+    21300396: SNES - Super Mario World - Enemies_198
+    21300398: SNES - Super Mario World - Enemies_199
+    21300400: SNES - Super Mario World - Enemies_200
+    21300402: SNES - Super Mario World - Enemies_201
+    21300404: SNES - Super Mario World - Enemies_202
+    21300406: SNES - Super Mario World - Enemies_203
+    21300408: SNES - Super Mario World - Enemies_204
+    21300410: SNES - Super Mario World - Enemies_205
+    21300412: SNES - Super Mario World - Enemies_206
+    21300414: SNES - Super Mario World - Enemies_207
+    21300416: SNES - Super Mario World - Enemies_208
+    21300418: SNES - Super Mario World - Enemies_209
+    21300420: SNES - Super Mario World - Enemies_210
+    21300422: SNES - Super Mario World - Enemies_211
+    21300424: SNES - Super Mario World - Enemies_212
+    21300426: SNES - Super Mario World - Enemies_213
+    21300428: SNES - Super Mario World - Enemies_214
+    21300430: SNES - Super Mario World - Enemies_215
+    21300432: SNES - Super Mario World - Enemies_216
+    21300434: SNES - Super Mario World - Enemies_217
+    21300436: SNES - Super Mario World - Enemies_218
+    21300438: SNES - Super Mario World - Enemies_219
+    21300440: SNES - Super Mario World - Enemies_220
+    21300442: SNES - Super Mario World - Enemies_221
+    21300444: SNES - Super Mario World - Enemies_222
+    21300446: SNES - Super Mario World - Enemies_223
+    21300448: SNES - Super Mario World - Enemies_224
+    21300450: SNES - Super Mario World - Enemies_225
+    21300452: SNES - Super Mario World - Enemies_226
+    21300454: SNES - Super Mario World - Enemies_227
+    21300456: SNES - Super Mario World - Enemies_228
+    21300458: SNES - Super Mario World - Enemies_229
+    21300460: SNES - Super Mario World - Enemies_230
+    21300462: SNES - Super Mario World - Enemies_231
+    21300464: SNES - Super Mario World - Enemies_232
+    21300466: SNES - Super Mario World - Enemies_233
+    21300468: SNES - Super Mario World - Enemies_234
+    21300470: SNES - Super Mario World - Enemies_235
+    21300472: SNES - Super Mario World - Enemies_236
+    21300474: SNES - Super Mario World - Enemies_237
+    21300476: SNES - Super Mario World - Enemies_238
+    21300478: SNES - Super Mario World - Enemies_239
+    21300480: SNES - Super Mario World - Enemies_240
+    21300482: SNES - Super Mario World - Enemies_241
+    21300484: SNES - Super Mario World - Enemies_242
+    21300486: SNES - Super Mario World - Enemies_243
+    21300488: SNES - Super Mario World - Enemies_244
+    21300490: SNES - Super Mario World - Enemies_245
+    21300492: SNES - Super Mario World - Enemies_246
+    21300494: SNES - Super Mario World - Enemies_247
+    21300496: SNES - Super Mario World - Enemies_248
+    21300498: SNES - Super Mario World - Enemies_249
+    21300500: SNES - Super Mario World - Enemies_250
+    21300502: SNES - Super Mario World - Enemies_251
+    21300504: SNES - Super Mario World - Enemies_252
+    21300506: SNES - Super Mario World - Enemies_253
+    21300508: SNES - Super Mario World - Enemies_254
+    21300510: SNES - Super Mario World - Enemies_255
+    21300512: SNES - Super Mario World - Enemies_256
+    21300514: SNES - Super Mario World - Enemies_257
+    21300516: SNES - Super Mario World - Enemies_258
+    21300518: SNES - Super Mario World - Enemies_259
+    21300520: SNES - Super Mario World - Enemies_260
+    21300522: SNES - Super Mario World - Enemies_261
+    21300524: SNES - Super Mario World - Enemies_262
+    21300526: SNES - Super Mario World - Enemies_263
+    21300528: SNES - Super Mario World - Enemies_264
+    21300530: SNES - Super Mario World - Enemies_265
+    21300532: SNES - Super Mario World - Enemies_266
+    21300534: SNES - Super Mario World - Enemies_267
+    21300536: SNES - Super Mario World - Enemies_268
+    21300538: SNES - Super Mario World - Enemies_269
+    21300540: SNES - Super Mario World - Enemies_270
+    21300542: SNES - Super Mario World - Enemies_271
+    21300544: SNES - Super Mario World - Enemies_272
+    21300546: SNES - Super Mario World - Enemies_273
+    21300548: SNES - Super Mario World - Enemies_274
+    21300550: SNES - Super Mario World - Enemies_275
+    21300552: SNES - Super Mario World - Enemies_276
+    21300554: SNES - Super Mario World - Enemies_277
+    21300556: SNES - Super Mario World - Enemies_278
+    21300558: SNES - Super Mario World - Enemies_279
+    21300560: SNES - Super Mario World - Enemies_280
+    21300562: SNES - Super Mario World - Enemies_281
+    21300564: SNES - Super Mario World - Enemies_282
+    21300566: SNES - Super Mario World - Enemies_283
+    21300568: SNES - Super Mario World - Enemies_284
+    21300570: SNES - Super Mario World - Enemies_285
+    21300572: SNES - Super Mario World - Enemies_286
+    21300574: SNES - Super Mario World - Enemies_287
+    21300576: SNES - Super Mario World - Enemies_288
+    21300578: SNES - Super Mario World - Enemies_289
+    21300580: SNES - Super Mario World - Enemies_290
+    21300582: SNES - Super Mario World - Enemies_291
+    21300584: SNES - Super Mario World - Enemies_292
+    21300586: SNES - Super Mario World - Enemies_293
+    21300588: SNES - Super Mario World - Enemies_294
+    21300590: SNES - Super Mario World - Enemies_295
+    21300592: SNES - Super Mario World - Enemies_296
+    21300594: SNES - Super Mario World - Enemies_297
+    21300596: SNES - Super Mario World - Enemies_298
+    21300598: SNES - Super Mario World - Enemies_299
+    21300600: SNES - Super Mario World - Enemies_300
+    21300602: SNES - Super Mario World - Enemies_301
+    21300604: SNES - Super Mario World - Enemies_302
+    21300606: SNES - Super Mario World - Enemies_303
+    21300608: SNES - Super Mario World - Enemies_304
+    21300610: SNES - Super Mario World - Enemies_305
+    21300612: SNES - Super Mario World - Enemies_306
+    21300614: SNES - Super Mario World - Enemies_307
+    21300616: SNES - Super Mario World - Enemies_308
+    21300618: SNES - Super Mario World - Enemies_309
+    21300620: SNES - Super Mario World - Enemies_310
+    21300622: SNES - Super Mario World - Enemies_311
+    21300624: SNES - Super Mario World - Enemies_312
+    21300626: SNES - Super Mario World - Enemies_313
+    21300628: SNES - Super Mario World - Enemies_314
+    21300630: SNES - Super Mario World - Enemies_315
+    21300632: SNES - Super Mario World - Enemies_316
+    21300634: SNES - Super Mario World - Enemies_317
+    21300636: SNES - Super Mario World - Enemies_318
+    21300638: SNES - Super Mario World - Enemies_319
+    21300640: SNES - Super Mario World - Enemies_320
+    21300642: SNES - Super Mario World - Enemies_321
+    21300644: SNES - Super Mario World - Enemies_322
+    21300646: SNES - Super Mario World - Enemies_323
+    21300648: SNES - Super Mario World - Enemies_324
+    21300650: SNES - Super Mario World - Enemies_325
+    21300652: SNES - Super Mario World - Enemies_326
+    21300654: SNES - Super Mario World - Enemies_327
+    21300656: SNES - Super Mario World - Enemies_328
+    21300658: SNES - Super Mario World - Enemies_329
+    21300660: SNES - Super Mario World - Enemies_330
+    21300662: SNES - Super Mario World - Enemies_331
+    21300664: SNES - Super Mario World - Enemies_332
+    21300666: SNES - Super Mario World - Enemies_333
+    21300668: SNES - Super Mario World - Enemies_334
+    21300670: SNES - Super Mario World - Enemies_335
+    21300672: SNES - Super Mario World - Enemies_336
+    21300674: SNES - Super Mario World - Enemies_337
+    21300676: SNES - Super Mario World - Enemies_338
+    21300678: SNES - Super Mario World - Enemies_339
+    21300680: SNES - Super Mario World - Enemies_340
+    21300682: SNES - Super Mario World - Enemies_341
+    21300684: SNES - Super Mario World - Enemies_342
+    21300686: SNES - Super Mario World - Enemies_343
+    21300688: SNES - Super Mario World - Enemies_344
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1286
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1126
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1046
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1046
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1047
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1010
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 998
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 999
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 998
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1007
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 998
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 967
+        width: 25
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 966
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 966
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 966
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 967
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 966
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 966
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 958
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 958
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 967
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 958
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 922
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 922
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 926
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 926
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 926
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 918
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 920
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 919
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 926
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 927
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 918
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 875
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 875
+        width: 54
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 896
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 897
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 886
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 886
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 887
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 887
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 897
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 887
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 878
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 874
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 877
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 875
+        width: 4
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 837
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 773
+        width: 42
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 773
+        width: 40
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 847
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 846
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 846
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 846
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 846
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 844
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 796
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 806
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 806
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 807
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 807
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 807
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 820
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 804
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 800
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 756
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 760
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 760
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 760
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 759
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 759
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 759
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 758
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 764
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 719
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 718
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 719
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 746
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 719
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 726
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 726
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 737
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 739
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 736
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 734
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 738
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 739
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 724
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 723
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 732
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 728
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 730
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 724
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 725
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 687
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 690
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 690
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 679
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 696
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 686
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 686
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 685
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 682
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 683
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 676
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 646
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 646
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 647
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 646
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 602
+        width: 18
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 602
+        width: 18
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 610
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 610
+        width: 18
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 638
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 638
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 638
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 37
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 606
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 607
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 607
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 606
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 597
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 597
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 566
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 566
+        width: 55
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 566
+        width: 55
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 570
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 563
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 562
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 541
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 541
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 526
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 526
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 529
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 526
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 526
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_227
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 477
+        width: 17
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_228
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 477
+        width: 17
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_229
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 482
+        width: 48
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_230
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 481
+        width: 48
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_231
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 482
+        width: 47
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_232
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 482
+        width: 47
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_233
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_234
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 485
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_235
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 486
+        width: 33
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_236
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 48
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_237
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 445
+        width: 48
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_238
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 446
+        width: 47
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_239
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 446
+        width: 47
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_240
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 446
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_241
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 446
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 446
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_243
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 446
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_244
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 446
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_245
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 414
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_247
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 399
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 414
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_249
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 406
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_250
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 409
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_251
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_252
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 409
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_253
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 406
+        width: 38
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_254
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 409
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 406
+        width: 45
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_256
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_257
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 367
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_259
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 408
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_260
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_261
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_262
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 366
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_263
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 366
+        width: 47
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_264
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 366
+        width: 49
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_265
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 366
+        width: 50
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_266
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 366
+        width: 38
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_267
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_268
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_270
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_271
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 322
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_272
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_273
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_274
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 322
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_275
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_276
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_277
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 322
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_278
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_279
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 318
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_280
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 318
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_281
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_282
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_283
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 80
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 278
+        width: 80
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_285
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 278
+        width: 80
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_286
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 278
+        width: 80
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 80
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_288
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 238
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_289
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 238
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_290
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_291
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_292
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 238
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_293
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 238
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_294
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 238
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_295
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 238
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_296
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_297
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 242
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_298
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 242
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_299
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 242
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_301
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_302
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_303
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 206
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_304
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_305
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_306
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_307
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_308
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 207
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_309
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 207
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_310
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 207
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_311
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 207
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_312
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 206
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_313
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 122
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_314
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_315
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_316
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_317
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_318
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 47
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_319
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 126
+        width: 47
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_320
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 167
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_321
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 129
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_322
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 130
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_323
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_324
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 129
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_325
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_326
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_327
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 33
+        width: 35
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_328
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 41
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_329
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_330
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_331
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 86
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_332
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_333
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 42
+        width: 67
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_334
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_335
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_336
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_337
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_338
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_339
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_340
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_341
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_342
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_343
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Enemies_344
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
