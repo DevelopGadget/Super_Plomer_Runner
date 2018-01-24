@@ -11,6 +11,7 @@ public class EnemyController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		transform.parent = null;
 		rb2d = GetComponent<Rigidbody2D>();
 		Animacion = GetComponent<Animator> ();
 	}

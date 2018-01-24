@@ -7,12 +7,12 @@ public class CameraFollow : MonoBehaviour {
 	public GameObject follow;
 	public Vector2 minCamPos, maxCamPos;
 	public float smoothTime;
-
+	private AudioSource AudioController;
 	private Vector2 velocity;
 
 	// Use this for initialization
 	void Start () {
-		
+		AudioController = GetComponent<AudioSource> ();
 	}
 	
 	// Update is called once per frame
@@ -26,5 +26,8 @@ public class CameraFollow : MonoBehaviour {
 			Mathf.Clamp(posX, minCamPos.x, maxCamPos.x), 
 			Mathf.Clamp(posY, minCamPos.y, maxCamPos.y),
 			transform.position.z);
+	}
+	public void Parar(){
+		AudioController.Stop ();
 	}
 }
