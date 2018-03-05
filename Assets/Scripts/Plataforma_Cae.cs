@@ -7,6 +7,7 @@ public class Plataforma_Cae : MonoBehaviour {
 	private Rigidbody2D Plataforma;
 	private PolygonCollider2D Col;
 	private Vector3 start;
+	public GameObject Player;
 
 	// Use this for initialization
 	void Start () {
@@ -21,12 +22,18 @@ public class Plataforma_Cae : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D Tag){
-		if (Tag.gameObject.CompareTag ("Player")) Invoke ("Dalay", 0.5f); Invoke ("Respawn", 4f);
+		if (Tag.gameObject.CompareTag ("Player"))Invoke ("Dalay", 1f); Invoke ("Respawn", 4f);
+	}
+
+	void OnCollisionExit2D(Collision2D Tag){
+		if (Tag.gameObject.CompareTag ("Player")) Tag.gameObject.GetComponent<PlayerController> ().Suelo = false;  Tag.transform.parent = null;
 	}
 
 	void Dalay(){
-		Plataforma.isKinematic = false;
+		Player.transform.parent = null;
+		Player.GetComponent<PlayerController> ().Suelo = false;
 		Col.isTrigger = true;
+		Plataforma.isKinematic = false;
 	}
 
 	void Respawn(){

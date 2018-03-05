@@ -9,6 +9,12 @@ TagManager:
   - Disparo
   - Enemigo Tipo 2
   - Enemigo Tipo 1
+  - Enemigo Tipo 3
+  - Estrella
+  - Puerta
+  - Llave
+  - Plataforma Cae
+  - Puas
   layers:
   - Default
   - TransparentFX

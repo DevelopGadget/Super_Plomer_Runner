@@ -109,7 +109,6 @@ D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\Unity.Ceci
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\Unity.CecilTools.dll
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\Unity.Cecil.Pdb.dll
-D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\UnityEngine.xml
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\UnityEditor.xml
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\UnityEngine.UI.xml
@@ -135,3 +134,4 @@ D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\UnityEdito
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\obj\Debug\Assembly-CSharp.dll
 D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\obj\Debug\Assembly-CSharp.pdb
+D:\Unity\Games\Super Plomer Runner\Super_Plomer_Runner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb

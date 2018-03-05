@@ -36,6 +36,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4753069681719102}
   - component: {fileID: 61572097675283988}
+  - component: {fileID: 61178775332530772}
   m_Layer: 0
   m_Name: Cuadros
   m_TagString: Plataforma
@@ -63,13 +64,38 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1718253350638896}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 44.510044, y: 2.2034266, z: -0.05636938}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 7237.4, y: 0, z: -4202.6294}
+  m_LocalScale: {x: 46.666794, y: 46.666794, z: 46.666794}
   m_Children:
   - {fileID: 4559416714673426}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61178775332530772
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1718253350638896}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.870684}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.60908014}
+  m_EdgeRadius: 0
 --- !u!61 &61572097675283988
 BoxCollider2D:
   m_ObjectHideFlags: 1

@@ -38,9 +38,10 @@ GameObject:
   - component: {fileID: 60164335076377272}
   - component: {fileID: 50429293590414446}
   - component: {fileID: 114366366324913846}
+  - component: {fileID: 61519990015518808}
   m_Layer: 0
   m_Name: Plataforma_Cae
-  m_TagString: Movil
+  m_TagString: Plataforma Cae
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -94,8 +95,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1589603163391486}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 539.4667, y: 117, z: -4197.4575}
-  m_LocalScale: {x: 46.666668, y: 46.666668, z: 46.666668}
+  m_LocalPosition: {x: 3647, y: -116.99999, z: -4197.4575}
+  m_LocalScale: {x: 46.666733, y: 46.666733, z: 46.666733}
   m_Children:
   - {fileID: 4280254020874044}
   - {fileID: 4229525853035158}
@@ -147,8 +148,8 @@ PolygonCollider2D:
   m_Points:
     m_Paths:
     - - {x: 0, y: 0.5052843}
-      - {x: 0.86281145, y: 0.485856}
-      - {x: 0.80214465, y: 0.4608307}
+      - {x: -0.9300051, y: 0.11223197}
+      - {x: -0.9391823, y: 0.49389005}
       - {x: 0.27576876, y: -0.42332858}
       - {x: -0.3155775, y: -0.42019093}
       - {x: -0.4793687, y: -0.17410895}
@@ -158,15 +159,35 @@ PolygonCollider2D:
       - {x: -0.4409299, y: -0.12601352}
       - {x: -0.33776617, y: -0.4482069}
       - {x: 0.27287722, y: -0.46632814}
-      - {x: 0.3873279, y: -0.050194025}
-      - {x: 0.49501705, y: -0.10498786}
-      - {x: 0.5623412, y: 0.041785486}
-      - {x: 0.4753914, y: 0.4974246}
-      - {x: 0.7822542, y: 0.49888396}
       - {x: 0.51752853, y: 0.19709647}
       - {x: 0.5638046, y: 0.03938675}
       - {x: 0.8668499, y: 0.058348656}
       - {x: 0.86684966, y: 0.49848264}
+--- !u!61 &61519990015518808
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1589603163391486}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -2.5300002, y: 0.45891416}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.7854578, y: 0.27539897}
+  m_EdgeRadius: 0
 --- !u!114 &114366366324913846
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -178,6 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea0b63e96276cb14a887313c87068dcf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 0}
 --- !u!212 &212430712315289154
 SpriteRenderer:
   m_ObjectHideFlags: 1

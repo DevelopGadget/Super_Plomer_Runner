@@ -22,4 +22,5 @@ public class Plataforma_Movil : MonoBehaviour {
 		if (Target != null) transform.position = Vector3.MoveTowards (transform.position, Target.position, Vel * Time.deltaTime);
 		if (transform.position == Target.position) Target.position = (Target.position == start) ? End : start;
 	}
+		
 }
